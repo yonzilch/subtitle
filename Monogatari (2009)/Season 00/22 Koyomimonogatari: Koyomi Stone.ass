@@ -165,7 +165,7 @@ Dialogue: 0,0:05:03.69,0:05:06.70,Default_JP_Koyomi,NTP,0,0,0,,物体が怪異�
 Dialogue: 1,0:05:07.74,0:05:08.70,Default_Koyomi,,0,0,0,,不过
 Dialogue: 0,0:05:07.74,0:05:08.70,Default_JP_Koyomi,,0,0,0,,ただし
 Dialogue: 1,0:05:09.16,0:05:13.70,Default_Koyomi,NTP,0,0,0,,究竟是因为是怪异才被人信仰  还是因为被人信仰才成为怪异
-Dialogue: 0,0:05:09.16,0:05:13.70,Default_JP_Koyomi,NTP,0,0,0,,信仰されたから 怪異になったのかは 
+Dialogue: 0,0:05:09.16,0:05:13.70,Default_JP_Koyomi,NTP,0,0,0,,信仰されたから 怪異になったのかは
 Dialogue: 1,0:05:13.70,0:05:15.33,Default_Koyomi,NTP,0,0,0,,这一点就很难说了
 Dialogue: 0,0:05:13.70,0:05:15.33,Default_JP_Koyomi,NTP,0,0,0,,決めかねるよね
 Dialogue: 1,0:05:16.54,0:05:21.09,Default_Koyomi,,0,0,0,,{\an8}因为是怪异才被人信仰  还是因为会被人信仰才被叫做怪异？
@@ -357,7 +357,7 @@ Dialogue: 1,0:11:25.62,0:11:31.21,Default_Koyomi,NTP,0,0,0,,或许是我无意�
 Dialogue: 0,0:11:25.62,0:11:31.21,Default_JP_Koyomi,NTP,0,0,0,,ひょっとすると 僕の思想のない行為は この石を怪異にしていたのかもしれない
 Dialogue: 1,0:11:32.00,0:11:36.25,Default_Koyomi,NTP,0,0,0,,或许一块普通的石头就这样成了一座珍贵的石像
 Dialogue: 0,0:11:32.00,0:11:36.25,Default_JP_Koyomi,NTP,0,0,0,,そこにあるのが当たり前の石から ありがたい石像となり
-Dialogue: 1,0:11:36.25,0:11:39.42,Default_Koyomi,NTP,0,0,0,,并且成了下可思议的怪异
+Dialogue: 1,0:11:36.25,0:11:39.42,Default_Koyomi,NTP,0,0,0,,并且成了不可思议的怪异
 Dialogue: 0,0:11:36.25,0:11:39.42,Default_JP_Koyomi,NTP,0,0,0,,そしてありえない怪異 になっていたかもしれない
 Dialogue: 1,0:11:40.55,0:11:44.26,Default_Koyomi,NTP,0,0,0,,或许有一天  不可思议也会变成普通
 Dialogue: 0,0:11:40.55,0:11:44.26,Default_JP_Koyomi,NTP,0,0,0,,ありえないが当たり前になる そんな日が訪れていたかも
